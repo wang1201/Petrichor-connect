@@ -1,0 +1,14 @@
+{
+  "name": "petrichor-connect",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1"
+  }
+}
